@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur
 - 👀 I’m interested in algorithmic trading and quantitative finance.
-- 💻 I'm currently working on several projects related to automated trading systems which are based on the open source framework [Lean](https://github.com/QuantConnect/Lean).  
+- 💻 I'm currently working on several projects related to automated trading systems which are based on [Lean](https://github.com/QuantConnect/Lean).  
 - 📫 You can find me on:
   - [Twitter](twitter.com/artasen_) 
   - [Upwork](https://upwork.com/freelancers/artasen)
